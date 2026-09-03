@@ -83,8 +83,8 @@
     left: 0;
     height: 100%;
     width: 100%;
-    backdrop-filter: blur(80px);
-    -webkit-backdrop-filter: blur(80px);
+    backdrop-filter: blur(200px);
+    -webkit-backdrop-filter: blur(200px);
 }
 
 body {
